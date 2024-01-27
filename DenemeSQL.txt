@@ -1,0 +1,6 @@
+Ad	Soyad	Ünvan
+Kadir	GÜVEN	Yazılım Mühendisi
+Eray	GÜVEN	Game Developer
+Kaya	YÜKSEL	İş Adamı
+Aslı	KÜÇÜK	Avukat
+Cem	ILIK	Mühendis
